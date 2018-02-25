@@ -1,0 +1,2 @@
+include ':app', ':lib', ':lib2', ':mylibrary', ':myapplication'
+include ':shrecolour2apk'

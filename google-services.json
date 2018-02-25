@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "303653448486",
+    "firebase_url": "https://booltan-rss-news.firebaseio.com",
+    "project_id": "booltan-rss-news",
+    "storage_bucket": "booltan-rss-news.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303653448486:android:195d7175b270b6ad",
+        "android_client_info": {
+          "package_name": "org.vpico.booltannews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303653448486-8gsr0evdaufnksl6lf76p91rnhkqllbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlCmAl6ss200SXUJK_xkLSUOHnWxm58rY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
